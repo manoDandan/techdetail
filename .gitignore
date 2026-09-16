@@ -1,0 +1,13 @@
+# Sistema operacional
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+*.code-workspace
+
+# Dependências e arquivos temporários
+node_modules/
+dist/
+build/
+*.log
